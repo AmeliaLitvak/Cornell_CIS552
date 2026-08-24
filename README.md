@@ -1,5 +1,5 @@
 # Cornell CIS 552: Python Functions, Testing, and Debugging
-
+      
 ## Overview
 
 This repository contains coursework and projects from Cornell
@@ -52,7 +52,7 @@ The exercises use dice simulations to explore:
 -   Global variables
 -   Boolean return values
 -   Function decomposition
-
+   
 The project culminates in a simple two-player dice roll-off that
 separates dice generation from the game logic.
 
